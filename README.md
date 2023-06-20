@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 ## 😜 About Me : 
-- name : Kim eunha
+- name : Kim Eunha
 - email : ara419@naver.com
 - homepage : https://eunhakim.github.io/
 - Tech Stacks : html, javascript, css, python, java, c, jsp, php..
