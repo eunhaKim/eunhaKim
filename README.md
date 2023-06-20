@@ -5,7 +5,7 @@
 - email : ara419@naver.com
 - homepage : https://eunhakim.github.io/
 - Tech Stacks : html, javascript, css, python, java, c, jsp, php..
-- License and Certificate : 정보처리기사, 웹디자인 기능사, 컴퓨터그래픽스운용기능사, 운전면허증 1종 보통..
+- License and Certificate : 정보처리기사, 컴퓨터그래픽스운용기능사, 웹디자인 기능사, 운전면허증 1종 보통..
 
 ---
 ## 🌱Achivements
