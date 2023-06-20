@@ -3,7 +3,7 @@
 ## 😜 About Me : 
 - name : Kim Eunha
 - email : ara419@naver.com
-- homepage : https://eunhakim.github.io/
+- homepage : <a href="https://eunhakim.github.io/" target="_blank">https://eunhakim.github.io/</a>
 - Tech Stacks : html, javascript, css, python, java, c, jsp, php..
 - License and Certificate : 정보처리기사, 웹디자인 기능사, 컴퓨터그래픽스운용기능사, 운전면허증 1종 보통..
 
